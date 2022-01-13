@@ -14,6 +14,9 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
+    func colorRed() {
+        view.backgroundColor = .systemRed
+    }
 
 }
 
